@@ -1,4 +1,4 @@
-name: Parallelism vs Concurrency demo
+name: Parallelism vs Concurrency Demo
 
 on:
   push:
